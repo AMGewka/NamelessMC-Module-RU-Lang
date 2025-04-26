@@ -1,0 +1,9 @@
+{
+    "general/followers": "Подписчики",
+    "general/new_follower": "{user} теперь подписан(а) на вас",
+    "general/follow": "Подписаться",
+    "general/unfollow": "Отписаться",
+    "general/following_none": "Пользователь ни на кого не подписан.",
+    "general/no_followers": "У пользователя нет подписчиков.",
+    "general/following": "Подписки"
+}
