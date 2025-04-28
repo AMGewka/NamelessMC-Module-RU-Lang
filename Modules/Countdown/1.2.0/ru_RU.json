@@ -1,0 +1,19 @@
+{
+    "countdown\/configure_widget_info": "Вы можете настроить расположение виджета в разделе StaffCP -> Layout -> Widgets",
+    "countdown\/countdown": "Обратный отсчет",
+    "countdown\/countdown_description": "Описание",
+    "countdown\/countdown_expires": "Истекает",
+    "countdown\/countdown_format": "{{days}}:{{hours}}:{{minutes}}:{{seconds}}",
+    "countdown\/countdown_name": "Название",
+    "countdown\/expires_required": "Пожалуйста, введите дату истечения срока",
+    "countdown\/name_maximum": "Пожалуйста, убедитесь, что имя не превышает {{count}} символов",
+    "countdown\/name_minimum": "Пожалуйста, убедитесь, что имя состоит как минимум из {{count}} символов",
+    "countdown\/name_required": "Пожалуйста, введите имя",
+    "countdown\/no_countdown": "Обратный отсчет еще не установлен",
+    "countdown\/remove_countdown": "Удалить обратный отсчет",
+    "countdown\/updated_successfully": "Успешно обновлено",
+    "countdown\/x_days": "{{days}}д",
+    "countdown\/x_hours": "{{hours}}ч",
+    "countdown\/x_minutes": "{{minutes}}м",
+    "countdown\/x_seconds": "{{seconds}}с"
+}
