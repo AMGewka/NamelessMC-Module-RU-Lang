@@ -1,0 +1,23 @@
+{
+    "general/title": "Команда",
+    "general/settings": "Настройки страницы команды",
+    "general/permission": "Панель » Настройки страницы команды",
+    "general/panel": "Панель",
+    "general/dashboard": "Панель управления",
+    "general/pageTitle": "Заголовок страницы",
+    "general/linkPath": "Путь ссылки",
+    "general/linkLocation": "Расположение ссылки",
+    "general/navbar": "Панель навигации",
+    "general/navbarMoreDropdown": "Выпадающее меню «Ещё» на панели навигации",
+    "general/footer": "Футер",
+    "general/none": "Нет",
+    "general/navIcon": "Иконка навигации",
+    "general/navOrder": "Порядок в навигации",
+    "general/submit": "Сохранить",
+    "general/cancel": "Отмена",
+    "general/settingsUpdated": "Настройки успешно обновлены.",
+    "general/success": "Успешно",
+    "general/error": "Ошибка",
+    "general/errorEdit": "Пожалуйста, убедитесь, что все поля заполнены правильно.",
+    "general/errorToken": "Недействительный токен! Пожалуйста, попробуйте снова."
+}
